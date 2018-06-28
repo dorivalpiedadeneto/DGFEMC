@@ -1,4 +1,5 @@
 __DGFEMC__ - _A Didactic Generalized Finite Element Method Code_
+
 Copyright (C) 2016 Dorival Piedade Neto & Sergio Persival Baroncini Proença
 
 This program is free software: you can redistribute it and/or modify
@@ -11,7 +12,9 @@ __MERCHANTABILITY__ or __FITNESS FOR A PARTICULAR PURPOSE__. See the
 __GNU General Public License__ for more details.
 
 You should have received a copy of the __GNU General Public License__
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+along with this program.  
+
+If not, see <http://www.gnu.org/licenses/>.
 
 -------------------------------------------------------------------------------
 
@@ -24,6 +27,7 @@ code. The aim is to show how to change a __FEM__ code to insert __GFEM__ feature
 the code.
 
 __Programming Language:__ _Python_
+
 __Dependence libraries:__ _NumPy_ and _matplotlib_
 
 __Usage:__
