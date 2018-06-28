@@ -1,6 +1,6 @@
 __DGFEMC__ - _A Didactic Generalized Finite Element Method Code_
 
-Copyright (C) 2016 Dorival Piedade Neto & Sergio Persival Baroncini Proença
+Copyright (C) 2016 __Dorival Piedade Neto__ & __Sergio Persival Baroncini Proença__
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
