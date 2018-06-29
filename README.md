@@ -26,7 +26,7 @@ __DGFEMC__ was developed based on __FEM__, which is a simple 1D Finite Element M
 code. The aim is to show how to change a __FEM__ code to insert __GFEM__ features in
 the code.
 
-__Programming Language:__ _Python_
+__Programming Language:__ _Python (2.7)_
 
 __Dependence libraries:__ _NumPy_ and _matplotlib_
 
